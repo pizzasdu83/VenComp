@@ -13,6 +13,7 @@ Image was made by (name from Github) adryd325 and change by Gold Rush and I made
 here is the original image
 
 https://github.com/adryd325/oneko.js/blob/main/oneko.gif
+
 ![neko](https://raw.githubusercontent.com/adryd325/oneko.js/refs/heads/main/oneko.gif)		                             
 
 This is how gold rush's (GR.gif) like (it is animated normally)
