@@ -20,6 +20,8 @@ This is how gold rush's (GR.gif) like (it is animated normally)
 
 ![GR](https://private-user-images.githubusercontent.com/199630298/456636845-47a72ecf-e2dd-43b9-93f4-20b1696554b6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ1ODA0NTMsIm5iZiI6MTc4NDU4MDE1MywicGF0aCI6Ii8xOTk2MzAyOTgvNDU2NjM2ODQ1LTQ3YTcyZWNmLWUyZGQtNDNiOS05M2Y0LTIwYjE2OTY1NTRiNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcyMFQyMDQyMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yOGVjODE5OTM4Y2UwZDlmNjk0ZTY2MTEzMmFlYWQzNGVkYWIzZDk1NzY5N2NkNzM5Njk2NGUyYWQ5YjU4YTRhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.jAQMw0-JLz58WKC33OGujnifbjHvqr_3xAPLih_jlT8)
 
+**The following gifs doesn't look good, in vencord, it will look better**
+
 This syoqua.gif (syobon.gif is in lower quality):
 
 ![walk](https://github.com/pizzasdu83/VenComp/blob/main/images/walk.gif?raw=true)
@@ -36,10 +38,54 @@ The nyancat.png is like this (nyan.png is more buggy):
 
 ![nyancar](https://github.com/pizzasdu83/VenComp/blob/main/images/nyancat.gif?raw=true)
 
-This is the code is in the css files:
+The **CHAOS**.css is a bit special, I'll let you discover it by yourself >:3
+
+The is the code is in the css files:
 
 | css file  | compatible with                                          |
 |:---------:|:--------------------------------------------------------:|
 | jump.css  | GR.gif <br> syobon.gif <br> syojump1.png <br> syoqua.gif |
 | powup.css | powup.png                                                |
-| nyan.css  | nyan.png <br> nyancat.png                                |
+| nyan.css  | nyan.png <br> nyancat.png   <br> jevil                   |
+| CHOAS.css | nyan.png <br> nyancat.png <br> jevil                     |
+
+# How set it up!
+
+First, you need vencord (obviously)
+
+For the demo, I'll show you how to set up the walking syobon gif :)
+
+First open discord and go to your vencord settings:
+
+![1](https://github.com/pizzasdu83/VenComp/blob/main/images/t1.png?raw=true)
+
+![2](https://github.com/pizzasdu83/VenComp/blob/main/images/t2.png?raw=true)
+
+After that you need to unable custom css go to "Edit QuickCSS", it will show you this window:
+
+![3](https://github.com/pizzasdu83/VenComp/blob/main/images/t3.png?raw=true)
+
+This is the place where you can put the css file.
+
+As you can see on the table up there, syoqua.gif is only compatile with jump.css, so let's get the jump.css .
+
+Go to the css folder
+
+![4](https://github.com/pizzasdu83/VenComp/blob/main/images/t4.png?raw=true)
+
+Then to the jump.css file
+
+![5](https://github.com/pizzasdu83/VenComp/blob/main/images/t5.png?raw=true)
+
+And copy the text
+
+![6](https://github.com/pizzasdu83/VenComp/blob/main/images/t6.png?raw=true)
+
+Paste it in the quick css window.
+
+![7](https://github.com/pizzasdu83/VenComp/blob/main/images/t8.png?raw=true)
+
+And then we have syobon, but he is jumping, to make him walk, it's very simple, we just need to change the name of the file from syojump1.png to syoqua.gif .
+![9](https://github.com/pizzasdu83/VenComp/blob/main/images/t9.png?raw=true)
+
+That's it :D now you have a walking syobon on your bar 
