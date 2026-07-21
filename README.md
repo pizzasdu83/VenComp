@@ -22,7 +22,7 @@ This is how gold rush's (GR.gif) like (it is animated normally)
 
 **The following gifs doesn't look good, in vencord, it will look better**
 
-This syoqua.gif (syobon.gif is in lower quality):
+This is syoqua.gif (syobon.gif is in lower quality):
 
 ![walk](https://github.com/pizzasdu83/VenComp/blob/main/images/walk.gif?raw=true)
 
@@ -40,7 +40,7 @@ The nyancat.png is like this (nyan.png is more buggy):
 
 The **CHAOS**.css is a bit special, I'll let you discover it by yourself >:3
 
-The is the code is in the css files:
+The code is in the css files:
 
 | css file  | compatible with                                          |
 |:---------:|:--------------------------------------------------------:|
@@ -86,6 +86,7 @@ Paste it in the quick css window.
 ![7](https://github.com/pizzasdu83/VenComp/blob/main/images/t8.png?raw=true)
 
 And then we have syobon, but he is jumping, to make him walk, it's very simple, we just need to change the name of the file from syojump1.png to syoqua.gif .
+
 ![9](https://github.com/pizzasdu83/VenComp/blob/main/images/t9.png?raw=true)
 
-That's it :D now you have a walking syobon on your bar 
+That's it :D now you have a walking syobon on your typing bar!
