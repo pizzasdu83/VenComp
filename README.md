@@ -18,7 +18,7 @@ https://github.com/adryd325/oneko.js/blob/main/oneko.gif
 
 This is how gold rush's (GR.gif) like (it is animated normally)
 
-![GR](https://private-user-images.githubusercontent.com/199630298/456636845-47a72ecf-e2dd-43b9-93f4-20b1696554b6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ1ODA0NTMsIm5iZiI6MTc4NDU4MDE1MywicGF0aCI6Ii8xOTk2MzAyOTgvNDU2NjM2ODQ1LTQ3YTcyZWNmLWUyZGQtNDNiOS05M2Y0LTIwYjE2OTY1NTRiNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcyMFQyMDQyMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yOGVjODE5OTM4Y2UwZDlmNjk0ZTY2MTEzMmFlYWQzNGVkYWIzZDk1NzY5N2NkNzM5Njk2NGUyYWQ5YjU4YTRhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.jAQMw0-JLz58WKC33OGujnifbjHvqr_3xAPLih_jlT8)
+![GR](https://github.com/GoldRushTV/SleepingGR/blob/main/images/image1.png?raw=true)
 
 **The following gifs doesn't look good, in vencord, it will look better**
 
