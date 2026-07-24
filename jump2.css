@@ -1,0 +1,76 @@
+[class^="channelTextArea"]::after {
+    content: "";
+    width: 32px;
+    height: 64px;
+    bottom: calc(100% - 2px); /* Mess with the - 3px to change its vertical position */
+    left: 0px; /* Switch this from right to left to put it on the left side, or increase/decrease to change its position */
+    position: absolute;
+    image-rendering: pixelated;
+    pointer-events: none;
+    background-image: url("https://raw.githubusercontent.com/pizzasdu83/VenComp/refs/heads/main/testjump2.png");
+    background-size: 256px 128px;
+    animation: oneko 1500ms infinite; /* change 2s to make the animation slower/faster */
+}
+
+@keyframes oneko {
+    0%, 5% {
+        background-position: -96px 0px;
+    }
+    5.00001%, 10% {
+        background-position: -96px -64px;
+    }
+    10.00001%, 15% {
+        background-position: -96px 0px;
+    }
+    15.00001%, 20% {
+        background-position: -96px -64px;
+    }
+    20.00001%, 25% {
+        background-position: -96px 0px;
+    }
+    25.00001%, 30% {
+        background-position: -96px -64px;
+    }
+    30.00001%, 35% {
+        background-position: -96px 0px;
+    }
+    35.00001%, 40% {
+        background-position: -96px -64px;
+    }
+    40.00001%, 45% {
+        background-position: -96px 0px;
+    }
+    45.00001%, 50% {
+        background-position: -96px -64px;
+    }
+    50.00001%, 55% {
+        background-position: -96px 0px;
+    }
+    55.00001%, 60% {
+        background-position: -96px -64px;
+    }
+    60.00001%, 65% {
+        background-position: -96px 0px;
+    }
+    65.00001%, 70% {
+        background-position: -96px -64px;
+    }
+    70.00001%, 75% {
+        background-position: -96px 0px;
+    }
+    75.00001%, 80% {
+        background-position: -96px -64px;
+    }
+    80.00001%, 85% {
+        background-position: -96px 0px;
+    }
+    85.00001%, 90% {
+        background-position: -192px -64px;
+    }
+    90.00001%, 95% {
+        background-position: -192px 0px;
+    }
+    95.00001%, 100% {
+        background-position: -192px -64px;
+    }
+}
