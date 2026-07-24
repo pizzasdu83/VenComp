@@ -9,7 +9,7 @@
     pointer-events: none;
     background-image: url("https://raw.githubusercontent.com/pizzasdu83/VenComp/refs/heads/main/testjump2.png");
     background-size: 256px 128px;
-    animation: oneko 1500ms infinite; /* change 2s to make the animation slower/faster */
+    animation: oneko 1300ms infinite; /* change 2s to make the animation slower/faster */
 }
 
 @keyframes oneko {
