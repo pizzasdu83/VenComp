@@ -2,7 +2,7 @@
     content: "";
     width: 64px;
     height: 64px;
-    bottom: calc(50% - 0px); /* Mess with the - 3px to change its vertical position */
+    bottom: calc(100% - 0px); /* Mess with the - 3px to change its vertical position */
     left: 0px; /* Switch this from right to left to put it on the left side, or increase/decrease to change its position */
     position: absolute;
     image-rendering: pixelated;
